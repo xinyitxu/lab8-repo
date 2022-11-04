@@ -1,2 +1,2 @@
 # lab8-repo
-this is our readme file!
+This is lab8 with Brisa, Xinyi, and Daisy.
